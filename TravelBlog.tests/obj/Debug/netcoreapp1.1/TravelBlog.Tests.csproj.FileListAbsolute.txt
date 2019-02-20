@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.Tests.deps.json
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.Tests.runtimeconfig.json
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/obj/Debug/netcoreapp1.1/TravelBlog.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.Tests.dll
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.Tests.pdb
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.dll
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/bin/Debug/netcoreapp1.1/TravelBlog.pdb
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/obj/Debug/netcoreapp1.1/TravelBlog.Tests.dll
+/Users/Guest/Desktop/TravelBlog.Solution/TravelBlog.tests/obj/Debug/netcoreapp1.1/TravelBlog.Tests.pdb
